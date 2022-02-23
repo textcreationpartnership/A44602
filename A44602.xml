@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for a fund of a hundred and fifty thousand pounds per annum The first fifty thousand pounds per annum, of which, is proposed to be raised by and from a real improvement of the rights and prerogative of the crown. The other hundred thousand pounds per annum, to make the said fund, is proposed to be raised by such, who before they pay it, will be gainers, in happening to be the persons charged herewith, and therefore may with more reason afford to pay it, and think it no burden for being so charged. Most humbly offered to the consideration of the Kings Most Excellent Majesty, and both houses of Parliament. By Thomas Houghton. Lime-street December the 4th 1694.</title>
+            <author>Houghton, Thomas, Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44602</idno>
+            <idno type="STC">Wing H2932</idno>
+            <idno type="STC">ESTC R217010</idno>
+            <idno type="EEBO-CITATION">99828712</idno>
+            <idno type="PROQUEST">99828712</idno>
+            <idno type="VID">33143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33143)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1868:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for a fund of a hundred and fifty thousand pounds per annum The first fifty thousand pounds per annum, of which, is proposed to be raised by and from a real improvement of the rights and prerogative of the crown. The other hundred thousand pounds per annum, to make the said fund, is proposed to be raised by such, who before they pay it, will be gainers, in happening to be the persons charged herewith, and therefore may with more reason afford to pay it, and think it no burden for being so charged. Most humbly offered to the consideration of the Kings Most Excellent Majesty, and both houses of Parliament. By Thomas Houghton. Lime-street December the 4th 1694.</title>
+                  <author>Houghton, Thomas, Gent.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A proposal that felons and criminals (other than murderers and 'cases of life') perform seven years of service, or pay a fine (greater than 10 pounds). Also that inheritors pay a tax upon estates.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Library, University of London.</note>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Finance, Public --  Great Britain --  1688-1815 --  Early works to 1800.</term>
+               <term>Inheritance and transfer tax --  Law and legislation --  Early works to 1800.</term>
+               <term>Taxation --  England --  Early works to 1800.</term>
+               <term>Fines (Penalties) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33143:1"/>
+            <pb facs="tcp:33143:1"/>
+            <p>PROPOSALS FOR A FUND OF A Hundred and Fifty Thouſand Pounds <hi>per Annum.</hi>
+            </p>
+            <p>The Firſt Fifty Thouſand Pounds <hi>per Annum</hi> of which, is Propoſed to be raiſed by and from a Real Im<g ref="char:EOLhyphen"/>provement of the RIGHTS and PREROGATIVE of the <hi>CROWN.</hi>
+            </p>
+            <p>The other Hundred Thouſand Pounds <hi>per Annum,</hi> to make up the ſaid <hi>Fund,</hi> is propoſed to be Raiſed by ſuch, who before they pay it, will be gainers, in happening to be the Perſons charged herewith, and therefore may with more reaſon afford to pay it, and think it no Burden for being ſo Charged.</p>
+            <p>
+               <hi>Moſt Humbly Offered to the Conſideration of the</hi> KINGS <hi>Moſt Excellent Majeſty, and both Houſes of</hi> Parliament.</p>
+            <p>By <hi>THOMAS HO<g ref="char:V">Ʋ</g>GHTON.</hi>
+            </p>
+            <p>
+               <hi>Lime-ſtreet,</hi> December the 4th. 1694.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:33143:2"/>
+            <pb n="3" facs="tcp:33143:2"/>
+            <head>PROPOSALS FOR A FUND Of a Hundred and Fifty Thouſand Pounds <hi>per Annum. &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT His Majeſty would be Graciouſly Pleaſed, to give, or cauſe it to be given in Charge, through all his Kingdoms of <hi>England, Scotland, Ireland,</hi> and Domini<g ref="char:EOLhyphen"/>on of <hi>Wales:</hi> That the Laws be exact<g ref="char:EOLhyphen"/>ly obſerved, and put in Execution, a<g ref="char:EOLhyphen"/>gainſt all <hi>Felons</hi> and <hi>Criminals</hi> whatſoe<g ref="char:EOLhyphen"/>ver; and that all ſuch as ſhall be Con<g ref="char:EOLhyphen"/>victed by due courſe of Law <hi>(Murther and Caſes of Life only excepted)</hi> be by His Majeſty ſpared, and their Lives Granted them upon theſe Conditions, <hi>Viz.</hi>
+            </p>
+            <p>That they and every of them, do and perform Seven Years Ser<g ref="char:EOLhyphen"/>vice to, and for the <hi>Managers, Patentees,</hi> or their <hi>Aſſigns,</hi> or to and for ſuch as ſhall Raiſe Money for the King upon this <hi>Fund;</hi> which Service to be done, either at <hi>Sea</hi> or <hi>Land,</hi> on this ſide or beyond <hi>Sea,</hi> as the <hi>Managers, Purchaſers,</hi> or <hi>Owners</hi> of them think fit, and ſhall have occaſion to uſe them.</p>
+            <p>Or that theſe <hi>Felons</hi> and <hi>Criminals,</hi> may Fine off this Seven Years Service, at ſuch <hi>Rates</hi> and <hi>Prices</hi> as their <hi>Quality, Crimes,</hi> and other circumſtances may merit or require. And that none be admitted to pay leſs than a Ten Pounds Fine, but as much higher as the
+<pb n="4" facs="tcp:33143:3"/>
+               <hi>Managers</hi> ſhall think their Crimes may deſerve; and that as often as any <hi>Felons,</hi> and <hi>Criminals</hi> are committed; or ſuch as flye for a<g ref="char:EOLhyphen"/>ny <hi>Crime,</hi> or <hi>Accuſation (Murther, and Caſes of Life only excepted)</hi> That all ſuch and every of them, that do confeſs, and own them<g ref="char:EOLhyphen"/>ſelves to be Guilty, of what they ſhall be accuſed of, or ſtand Charged with, may have Liberty, and be admitted to Fine off their Seven Years Service, without coming to a <hi>Tryal,</hi> at ſuch Pri<g ref="char:EOLhyphen"/>ces as they and the <hi>Managers</hi> can agree of; they finding good <hi>Security,</hi> &amp; giving <hi>Bond</hi> for their honeſt &amp; peaceable Living, afterwards, by which means, if the <hi>Felons</hi> or <hi>Criminals,</hi> renew their Faults, there wll be Freſh <hi>Fines,</hi> and Forfeited <hi>Bonds,</hi> and the greater <hi>Fines</hi> paid, in Regard they come not to be expoſed to a <hi>Tryal.</hi>
+            </p>
+            <p>That the <hi>Felons</hi> and <hi>Criminals</hi> in <hi>England, Scotland, Ireland,</hi> and <hi>Wales,</hi> are at leaſt Four Thouſand Perſons <hi>per Annum,</hi> which Fi<g ref="char:EOLhyphen"/>ned off at Ten Pounds a <hi>Head,</hi> Raiſeth Forty Thouſand Pound a <hi>Year;</hi> and conſidering that: a great number of theſe, will be able to Pay greater <hi>Fines, (Viz.)</hi> Some from a Hundred, to a Thou<g ref="char:EOLhyphen"/>ſand Pounds a peice, and more: You may very well conclude, that Fifty Thouſand Pounds will be Yearly raiſed by them, in re<g ref="char:EOLhyphen"/>gard there will be more <hi>Fines</hi> paid at and above Twenty Pounds a <hi>Head,</hi> than at Ten.</p>
+            <p>That all ſuch who are not willing, or are unable to pay their <hi>Fines,</hi> be Sold, and Tranſported, to <hi>Africa, America, Eaſt-India,</hi> or committed to any other Service, by <hi>Sea,</hi> or <hi>Land,</hi> for the full Time and Term of <hi>Seven Years:</hi> and that the <hi>Purchaſer</hi> pay after the Rate of Ten Pounds a <hi>Head,</hi> for their Seven Years Service; and no leſs, but as much more as the <hi>Managers</hi> can get, or they may deſerve.</p>
+            <p>That a <hi>Mark</hi> be put in the <hi>Cheek</hi> of all ſuch as are Tranſport<g ref="char:EOLhyphen"/>ed, to diſtinguiſh them from other People; and if any <hi>Maſter</hi> of a <hi>Ship,</hi> ſhall bring any of them back, or remove them to any other place, before they have ſerved their <hi>Seven Years,</hi> without a War<g ref="char:EOLhyphen"/>rant from their <hi>Maſter,</hi> or the <hi>Governour</hi> of the place ſignifying the ſame, that ſuch <hi>Ship</hi> and <hi>Cargoe</hi> ſhall be Forfeited to the <hi>Ma<g ref="char:EOLhyphen"/>nagers,</hi>
+               <pb n="5" facs="tcp:33143:3"/>and the <hi>Maſter</hi> Fined a Thouſand Pounds, to be paid to the ſaid <hi>Managers,</hi> or their <hi>Aſſigns:</hi> And when any of them have ſerved the full Time and Term of Seven Years, that all ſuch may be diſcharged from their Service, and made Free, with full power and liberty, to uſe all endeavours for the good of them<g ref="char:EOLhyphen"/>ſelves, as any other of the <hi>Kings</hi> Subjects hath, or can have.</p>
+            <p>That an Office be ſet up here for the <hi>Management</hi> of theſe af<g ref="char:EOLhyphen"/>fairs, and that his Majeſty be Addreſſed that the ſame may be done in <hi>Ireland,</hi> and <hi>Scotland,</hi> with full power given to the <hi>Ma<g ref="char:EOLhyphen"/>nagers,</hi> to agree for, and <hi>to</hi> remit the <hi>Fines</hi> as aforeſaid, whereby ma<g ref="char:EOLhyphen"/>ny <hi>Felons</hi> and <hi>Crimina's,</hi> will be brought to raiſe great Sums Year<g ref="char:EOLhyphen"/>ly, and the Nation Rid of <hi>Rogues,</hi> or their <hi>Purſes</hi> Puniſhed for their Roguery. For if you pleaſe to conſider, the hanging of them is a great loſs to the Nation ſeveral ways too long to be here inſerted, when as the preſervation of their Lives, this way, doth not only produce a preſent profit, but the ſending them abroad will alſo increaſe the power and ſtrength of the <hi>Engliſh</hi> in Forreign Parts, and will occaſion a greater expence, and demand of the <hi>Engliſh</hi> Manufactures to be ſent abroad, whereby Trade would be encreaſ<g ref="char:EOLhyphen"/>ed, Forreign Places ſtrengthned, Preſent Mony raiſed, their Own<g ref="char:EOLhyphen"/>ers abroad enriched, and they themſelves preſerved.</p>
+            <p>And as an Addition to make up the ſaid <hi>Fund,</hi> I propoſe that the ſame <hi>Managers</hi> may have full power given them, to treat and and agree with, any perſon or perſons, that will undertake and Contract, for the Coynage of <hi>Copper</hi> or <hi>Braſs</hi> Money, in any or all the following Colonies of <hi>America, (Viz.)</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Newfound-Land.</hi>
+               </item>
+               <item>
+                  <hi>Carolina.</hi>
+               </item>
+               <item>
+                  <hi>New-England.</hi>
+               </item>
+               <item>
+                  <hi>Bermudas.</hi>
+               </item>
+               <item>
+                  <hi>New-York.</hi>
+               </item>
+               <item>
+                  <hi>Monſerrat.</hi>
+               </item>
+               <item>
+                  <hi>Penſilvania.</hi>
+               </item>
+               <item>
+                  <hi>Dominica.</hi>
+               </item>
+               <item>
+                  <hi>New Jerſey.</hi>
+               </item>
+               <item>
+                  <hi>Antego.</hi>
+               </item>
+               <item>
+                  <hi>Mary-Land.</hi>
+               </item>
+               <item>
+                  <hi>Mevis.</hi>
+               </item>
+               <item>St. <hi>Chriſtophers.</hi>
+               </item>
+               <item>
+                  <hi>Barbadoes.</hi>
+               </item>
+               <item>
+                  <hi>Jamaica.</hi>
+               </item>
+               <item>St. <hi>Hellena.</hi>
+               </item>
+            </list>
+            <p>Or in any part of <hi>Eaſt-India,</hi> or <hi>Africa,</hi> where the <hi>Engliſh</hi> have any Colonies; for it would be no difficult thing, to perſwade
+<pb n="6" facs="tcp:33143:4"/>the Natives to take <hi>Braſs</hi> or <hi>Copper</hi> Money, in ſome of theſe places, provi<g ref="char:EOLhyphen"/>ded, the <hi>Engliſh</hi> do ſatisfy them they will take it again, for any <hi>Engliſh</hi> Commodities, and deal faithfully with them, and do ſo; however, the <hi>Engliſh,</hi> and all <hi>Europeans,</hi> may uſe it amongſt them<g ref="char:EOLhyphen"/>ſelves, and promote it amongſt the Natives, in all places as much as they can.</p>
+            <p>All which I humbly ſubmit to the conſideration of this pre<g ref="char:EOLhyphen"/>ſent Parliament, and hope You will Addreſs the KINGS Moſt Excellent Majeſty, for what is to be Granted on His part, and alſo, that You, in Your Great Wiſdom, will Ratifie, Confirm, and Eſtabliſh, all things neceſſary to be done on Yours; which is, what offers at preſent upon this Subject, for Improving the Rights and Prerogative of the Crown, Fifty Thouſand Pounds <hi>per Annum.</hi>
+            </p>
+            <p>
+               <hi>For Raiſing the Hundred Thouſand Pounds</hi> per Annum, <hi>to make up the ſaid</hi> Fund;</p>
+            <p>
+               <hi>I Propoſe,</hi> That all and every <hi>Heir, Heireſs,</hi> and <hi>Co-Heirs, Executor,</hi> and <hi>Executrix, Aminiſtrator,</hi> and <hi>Adminiſtratix,</hi> and every of them, together with all Legatees, that ſhall happen ſo to be, unto any Perſon or Perſons, Dying after the 26th of <hi>March,</hi> 1695, that they and every of them, Pay one Twentieth Part to the <hi>King,</hi> of what ſhall deſcend, or be given to them by the Deceaſed, or of what He, or She Dyed, Seized of, or was poſ<g ref="char:EOLhyphen"/>ſeſt of, any time in Three Months laſt' before his or her death, and ſhall not be publickly and well known to be ſold, and con<g ref="char:EOLhyphen"/>veyed for a valuable conſideration, by a good conveyance, under Hand and Seal, with ſufficient Witneſs, done and Executed accor<g ref="char:EOLhyphen"/>ding to Law; and ſuch a Conveyance as ſhall be free from all Suſpicion, and Colour of Fraud, to defeat the Payment hereof; the Juſt Debts &amp; Funeral Expences, <hi>of</hi> the Deceaſed, being firſt paid.</p>
+            <p>And that every <hi>Heir, Heireſs,</hi> and <hi>Co-Heir, Executor</hi> and <hi>Exe<g ref="char:EOLhyphen"/>cutrix, Adminiſtrator,</hi> and <hi>Adminiſtratix,</hi> or ſome of them, ſhall within twenty days time, next after the death of the Deceaſed, make
+<pb n="7" facs="tcp:33143:4"/>and give in, a true Inventory and Appraiſement, of the whole Effects, Goods and Chattels, Eſtates Real, and Perſonal, of the Deceaſed, unto the next Juſtice of the Peace, or unto the Vic<g ref="char:EOLhyphen"/>ar or Miniſter of the Pariſh where the Deceaſed Dyed, and make Oath of the ſame to be true; which Appraiſement the Juſtice of the Peace, Vicar or Miniſter, ſhall return in twenty days time next, after Oath ſo made, into Their Majeſties Exche<g ref="char:EOLhyphen"/>quer, or to the <hi>Managers</hi> of this affair, or to ſuch as ſhall be appointed for the Receipt hereof. And if any <hi>Heir, Heireſs, Co-Heir, Executor Executrix, Adminiſtrator</hi> or <hi>Adminiſtratix,</hi> neglect or refuſe, to make ſuch Inventory or Appraiſement, and to make Oath for the Truth thereof, and return it as a<g ref="char:EOLhyphen"/>foreſaid, every one ſo failing, to pay one Tenth Part to Their Majeſties, of what ſhall Deſcend, Fall, or be given to them, or come into their Poſſeſſion by the Death of the Deceaſed.</p>
+            <p>
+               <hi>For if You Pleaſe to Conſider,</hi> The Eſtates which deſcend and de<g ref="char:EOLhyphen"/>volve to and upon Succeſſors, by the death of their Predeceſſors, in <hi>England</hi> and <hi>Wales,</hi> is Yearly, and every Year above Three Millions <hi>per Annum,</hi> ſo that one twentieth part will fully anſwer, and raiſe a Hundred Thouſand Pounds <hi>per Annum,</hi> which makes up the Hundred and Fifty Thouſand Pounds <hi>per Annum,</hi> as above propoſed for a <hi>Fund;</hi> and for a further ſupply, <hi>I propoſe as Followeth.</hi>
+            </p>
+            <p>That <hi>Proclamation</hi> and <hi>Publick notice</hi> be given, through <hi>England</hi> and <hi>Wales,</hi> That all and every perſon or perſons, who have any profitable Employment, Commiſſion, or Office, dependent on the <hi>Crown</hi> or <hi>Kings</hi> Buſineſs, for which they receive a Sallery, and are not expoſed to the danger of the Wars, nor peril of the Seas; That they and every of them return their Names, and places of abode, into the Exchequer, or to the <hi>Managers</hi> hereof, on or be<g ref="char:EOLhyphen"/>fore the 26th Day of <hi>March,</hi> 1695, upon pain of being ſuſpend<g ref="char:EOLhyphen"/>ed from ſuch their Office, and Imploy, with an account of what their Yearly Salleries are, and that they make Oath thereof, before the next Juſtice of the Peace, that the ſame account is with<g ref="char:EOLhyphen"/>in Five Pounds at a Hundred <hi>per Annum</hi> Sallery, to the beſt of their knowledge true, and ſo proportionably.</p>
+            <pb n="8" facs="tcp:33143:5"/>
+            <p> That all ſuch perſons do Yearly pay, during Your <hi>Pleaſure,</hi> one <hi>Months</hi> Sallery to the <hi>King,</hi> for continuation <hi>Money</hi> in His Ser<g ref="char:EOLhyphen"/>vice. And that all ſuch new Commiſſioners, Officers, and Ser<g ref="char:EOLhyphen"/>vants as aforeſaid, that ſhall enter into any ſuch Station, Office, or Imploy, after the 26th day of <hi>March</hi> 1695, pay the like pro<g ref="char:EOLhyphen"/>portion of one Months <hi>Sallery,</hi> at their Entrance, for Induction <hi>Money.</hi>
+            </p>
+            <p>As alſo that all perſons exerciſing, or poſſeſſing, any <hi>Eccleſiaſtical</hi> Benifice, Office, Function, or Imploy, worth <hi>Fifty</hi> Pounds <hi>per Annum,</hi> or upwards, <hi>Pay</hi> the ſame, at ſuch times and places, and to ſuch perſons, as You in your great Wiſdom, ſhall think fit to appoint: <hi>With this Proviſo,</hi> That all <hi>Biſhops,</hi> and <hi>Judges,</hi> ſitting in the <hi>Houſe</hi> of <hi>Lords,</hi> and all ſuch <hi>Members</hi> of the <hi>Houſe</hi> of <hi>Commons,</hi> as are <hi>Commiſſioners</hi> in any Branch of the <hi>Kings</hi> Buſineſs, be free and ex<g ref="char:EOLhyphen"/>empted from this <hi>Tax,</hi> or <hi>Months Impoſition,</hi> for their Attend<g ref="char:EOLhyphen"/>ance and Service they make the Nation, in both <hi>Houſes</hi> of <hi>Par<g ref="char:EOLhyphen"/>liament:</hi> Which Money being added to that before, will ſupply the <hi>Fund, Propoſed,</hi> if either of the two former Branches ſhould want In their proportions.</p>
+            <p>To Conclude, for anſwer to ſuch Objections as ſhall be made againſt any of the beforementioned <hi>Payments,</hi> I ſhall not inlarge, but in ſhort ſay, it is manifeſt that all <hi>Felons</hi> and <hi>Criminals,</hi> that are <hi>Guilty,</hi> whether Convicted by Law or no, if they had their deſerts, ought to be puniſhed, according to the merit of their Crimes, and it appears plainly, by daily experience, that the taking away the Lives of ſuch Offenders, hath not, nor will not, be a ſufficient warning to diſcourage others; therefore it ſeems more reaſonable, that ſome method ſhould be uſed to raiſe a be<g ref="char:EOLhyphen"/>nefit by them, for the uſe of the <hi>King,</hi> at whoſe Mercy their Lives are, rather than to continue the Old way to Hang and Deſtroy them: and for themſelves, they have nothing to ſay, knowing if they tranſgreſs and be taken, they muſt be puniſhed by Loſs of Life, Body or Eſtate, as the Law now directs; but if this me<g ref="char:EOLhyphen"/>thod
+<pb n="9" facs="tcp:33143:5"/>above propoſed, be put in practice, many Offenders after they have paid and fined off their Faults, may reclaim, and be<g ref="char:EOLhyphen"/>come better, and in time prove an induſtrious and ſerviceable people, both at home and abroad, and live to produce a better Iſſue, ſo that if His Majeſty, and You think fit, and Pleaſe to make it ſo, it may be better to raiſe Fifty Thouſand Pounds <hi>per Annum,</hi> this way, then to deſtroy them, and yet continue to loſe all.</p>
+            <p>For the ſecond ſort of perſons, which I propoſe to raiſe the Hundred Thouſand Pound <hi>per Annum,</hi> or the greateſt part of it, being the <hi>Heirs, Heireſſes, Co-Heirs, Executors,</hi> and <hi>Adminiſtrators,</hi> of Deceaſed Perſons, they will have no reaſon to complain, or grumble, at the Payment of one twentieth part of the whole to the <hi>King,</hi> in regard there is Nineteen times as much more fallen, deſcended, or given to them, (and many times unexpectedly pro<g ref="char:EOLhyphen"/>cured,) without any trouble, care, or coſt of theirs, for where the Deceaſed leaves but little, they pay the leſs, and where they leave more, 'twill be the better for them. And for the Donors, or Dying Perſons from whoſe Subſtance this muſt ariſe and pro<g ref="char:EOLhyphen"/>ceed, they need not Grieve or Repine, before their Death, at their conſenting to give it, for whil'ſt they Live they pay no-nothing, and when they are Dead they will want no more, there<g ref="char:EOLhyphen"/>fore may more freely comply with this, to ſupport an Induſtrious and Indefatigable PRINCE, in a Chargeable War.</p>
+            <p>For the Third ſort of perſons who are propoſed to be charged with raiſing a part of this <hi>Fund;</hi> they are ſuch, who have Com<g ref="char:EOLhyphen"/>miſſions and profitable employments under the <hi>King,</hi> and this Go<g ref="char:EOLhyphen"/>vernment, and therefore being gainers thereby, have no manner of cauſe or pretence to be excuſed; for 'tis but reaſonable they ſhould Aſſiſt that, which Supports or Mnintains them, <hi>&amp;c.</hi>
+            </p>
+            <pb n="10" facs="tcp:33143:6"/>
+            <p> Having thus propoſed, and reaſonably proved, the raiſing of a Hundred and Fifty Thouſand<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pound <hi>per Annum,</hi> for a <hi>Fund,</hi> in all Humility, and moſt Dutiful Submiſſion, I leave the further Conſideration thereof, to the Great Wiſdom and Prudence, of both Houſes of Parliament, and Beg leave to Subſcribe, and Remain,</p>
+            <closer>
+               <signed>
+                  <hi>Your Moſt Humble, and Moſt Obedient, Servant.</hi> Thomas Houghton.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
